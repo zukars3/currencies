@@ -4,8 +4,8 @@
 
 ![gif image showing usage](/currencies.gif)
 
-##### In main view you can see currencies and values for latest available day, but if you click on currency,
-you can see its value for the past three available days
+###### In main view you can see currencies and values for latest available day, but if you click on currency,
+###### you can see its value for the past three available days
 
 ##### Change database and other settings in .env.example and rename it to .env (REMEMBER THAT IT IS A HIDDEN FILE)
 ##### SQL dump file is available in project root directory, but you don't actually need it, just create empty database,
