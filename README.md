@@ -15,6 +15,7 @@
 ##### To update currencies run command:
 ###### php artisan currencies:update
 
+
 1. CurrenciesController
     * index(): calculates date of previous working day, gets currencies of last available day, paginates
     and opens home view
