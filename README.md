@@ -5,7 +5,8 @@
 ![gif image showing usage](/currencies.gif)
 
 ##### Change database and other settings in .env.example and rename it to .env (REMEMBER THAT IT IS A HIDDEN FILE)
-##### SQL dump file is available in project root directory
+##### SQL dump file is available in project root directory, but you don't actually need it, just create empty database,
+register it in .env file and run migrations
 ##### Please run following commands:
 ###### composer install
 ###### composer dump-autoload
