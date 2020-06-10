@@ -5,6 +5,7 @@
 ![gif image showing usage](/currencies.gif)
 
 ##### Change database and other settings in .env.example and rename it to .env (REMEMBER THAT IT IS A HIDDEN FILE)
+##### SQL dump file is available in project root directory
 ##### Please run following commands:
 ###### composer install
 ###### composer dump-autoload
